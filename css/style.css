@@ -1,0 +1,54 @@
+
+
+table, th,td{
+    border: 1px solid ;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: #444 ;
+    color: #ddd;
+}
+th,td{
+    padding:5px 10px ;
+}
+.text-italic{
+    font-style: italic;
+}
+.text-center{
+    text-align: center;
+}
+
+
+
+
+body{
+    width: 60%;
+    margin: 0px auto;
+    background-color: #bad3ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border-radius: 10px;
+      } 
+      .centertab{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        border-radius: 10px;
+      }
+      .centerimg{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 65%;
+        border-radius: 10px;
+      }
